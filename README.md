@@ -11,7 +11,7 @@ This project focuses on analyzing IPL (Indian Premier League) cricket data using
 ## Dataset/API
 Dataset is used here which contains information about all the Indian Premier League (IPL) matches till 2017 season.
 
-## Data Source
+## Data Storage
 Amazon S3
 
 ## Technologies Used
